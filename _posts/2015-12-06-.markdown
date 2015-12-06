@@ -1,0 +1,6 @@
+---
+published: true
+title: بالعربي نكتب
+layout: post
+---
+هذه أول تدوبنة !
